@@ -116,5 +116,18 @@ function getideas(){
   "*sigh* I guess I'm buying Skyrim again.",
   "Organize your spice rack. You have <em>how many</em> things of paprika?",
   "Make some good-ass cookies if you've got the stuff around for it.",
-  "Finally cancel that thing you keep forgetting to cancel because you're a fucking space cadet."];
+  "Learn to knit?"
+"Talk to your pet."
+"Empty the trash, eeewww!"
+"Throw our all the odd socks."
+"Play Yu-Gi-Oh online?"
+"Look up some lame jokes and bore your quarantine buddies."
+"Hide the soap?"
+"Make a cuppa?"
+"Give yourself a pedicure, your toes are looking like talons!"
+"Manicure time, nah, joking wash your manky hands!"
+"Watch and learn a crappy TikTok dance!"
+"Tidy your wallet, I bet it's full of tatty receipts?"
+"Text a friend and just say Hi?"
+"Finally cancel that thing you keep forgetting to cancel because you're a fucking space cadet."];
 }
